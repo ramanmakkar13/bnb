@@ -6962,8 +6962,8 @@ ul.progress-info { display: flex; justify-content: space-between; }
 }
 
 .row.blue {
-  background: rgb(43 201 180);
-  border-radius: 10px;
+  background: #866bfe;
+  border-radius: 4px;
 }
 
 img.icon {
@@ -7001,7 +7001,7 @@ input#floatingInputValue {
 }
 .btn-grad {
   border: none;
-  background-image: linear-gradient(to right, #2bc9b4 0%, #2bc9b4 100%);
+  background: #866bfe;
 }
 /* .top {
   margin-top: 20px;
@@ -7038,13 +7038,14 @@ input#floatingInputValue {
 
 .nav-tabs .nav-link {
  
-  background: #2bc9b4;
+  background: #866bfe;
   border: 1px solid transparent;
  
 }
 
 .token-countdown-wrapper.split.split-left.split-md-left {
-  background: #2bc9b469;
+
+  background: #4f3295;
   box-shadow: red;
   box-shadow: 0px 0px 10px #5b31b7;
   box-shadow: 1px solid red;
