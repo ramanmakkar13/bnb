@@ -6962,7 +6962,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 }
 
 .row.blue {
-  background: #866bfe;
+  background: #d5a42f;
   border-radius: 4px;
 }
 
@@ -7001,7 +7001,7 @@ input#floatingInputValue {
 }
 .btn-grad {
   border: none;
-  background: #866bfe;
+  background: #d5a42f;
 }
 /* .top {
   margin-top: 20px;
@@ -7038,7 +7038,7 @@ input#floatingInputValue {
 
 .nav-tabs .nav-link {
  
-  background: #866bfe;
+  background: #d5a42f;
   border: 1px solid transparent;
  
 }
@@ -7066,4 +7066,118 @@ img.img-fluid.mb-3.icons {
 
 .bg-theme-grad-s2 {
   background-image: linear-gradient(45deg, #0c1427 0%, #0c1427 100%) !important;
+}
+
+.tc-light .cpn-text {
+  color: rgb(213 164 47);
+}
+.btn-secondary {
+  background-color: rgb(213 164 47);
+  border-color: rgb(213 164 47);
+}
+.btn-secondary:hover, .btn-secondary:focus {
+  background-color: rgb(213 164 47);
+  border-color: rgb(213 164 47);
+}
+
+.progress-info span {
+
+  color: rgb(213 164 47);
+}
+
+.bg-theme {
+  background-color: rgb(17 25 43) !important;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  color: #d5a42f;
+
+}
+
+.tc-light .lead, .tc-light .lead-light, .tc-light .lead-s2 {
+  color: rgb(213 164 47);
+}
+
+.token-sale-info {
+  
+  color: rgb(213 164 47);
+}
+
+
+
+.token-bonus-title {
+ 
+  color: rgb(213 164 47);
+
+  background: rgb(17 25 43);
+}
+
+
+.btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus {
+  border-color: rgb(213 164 47);
+  background-color: rgb(213 164 47) !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+
+.btn-primary {
+  background-color: rgb(134, 107, 254);
+  border-color: rgb(213 164 47);
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+
+  border-color: rgb(213 164 47) rgb(213 164 47) rgb(213 164 47);
+}
+
+.bg-theme .roadmap-step:after, .bg-theme-dark .roadmap-step:after {
+  background: #d5a42f;
+  border-color: #d5a42f;
+}
+
+.owl-dot {
+  background: rgb(213 164 47 / 33%) !important;
+}
+
+.owl-dot.active {
+  width: 20px;
+  background: rgb(213 164 47) !important;
+}
+
+.roadmap-time-s3 {
+  color: #d5a42f;
+}
+
+.bg-theme .roadmap-step:after, .bg-theme-dark .roadmap-step:after {
+  background: #d5a42f;
+  border-color: #d5a42f;
+}
+
+.roadmap-carousel:after, .roadmap-carousel:before {
+  
+  background: #d5a42f;
+}
+
+
+.roadmap-time-s3:before {
+  border: 1px solid rgb(213 164 47);
+  box-shadow: 0px 2px 7px 0px rgba(60, 28, 148, 0.2);
+ 
+  background: linear-gradient(-90deg, #fff 0%, white 100%);
+
+  width: 32px;
+  color: #d5a42f;
+  
+}
+
+.tc-base-white-hover, .tc-light a:not(.btn):not([class*="link-"]):hover {
+  color: #d5a42f;
+}
+.btn-primary {
+  background-color: rgb(213 164 47);
+  border-color: rgb(213 164 47);
+}
+.btn-primary:hover, .btn-primary:focus {
+  background-color: rgb(213 164 47);
+  border-color: rgb(213 164 47);
 }
