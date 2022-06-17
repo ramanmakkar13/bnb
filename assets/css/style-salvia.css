@@ -7061,3 +7061,7 @@ label {
   background-color: rgba(255, 255, 255, 0);
   border-color: rgb(134 107 254) rgb(134 107 254) rgb(134 107 254);
 }
+
+img.img-fluid.mb-3.icons {
+  width: 40%;
+}
